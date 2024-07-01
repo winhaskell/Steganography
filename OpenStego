@@ -1,0 +1,15 @@
+OpenStego
+
+https://www.openstego.com/
+
+Welcome to the homepage of OpenStego, the free steganography solution.
+
+OpenStego provides two main functionalities:
+
+Data Hiding: It can hide any data within a cover file (e.g. images).
+Watermarking (beta): Watermarking files (e.g. images) with an invisible signature. It can be used to detect unauthorized file copying.
+
+
+Using OpenStego
+Using OpenStego is pretty straightforward. There are two modes of operation - data hiding and watermarking.
+
